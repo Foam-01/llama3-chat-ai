@@ -1,16 +1,31 @@
-โปรเจค "llama3-chat-ui" เป็นเว็บแอปที่ใช้เทคโนโลยีต่างๆ ดังนี้:
+# Llama3 Chat UI
 
-Next.js (เฟรมเวิร์คบน React): สำหรับพัฒนาแอปพลิเคชันที่เรนเดอร์ฝั่งเซิร์ฟเวอร์และสร้างเว็บไซต์แบบสแตติก
+**Llama3 Chat UI** is a web application that connects to the LLaMA 3 AI model, designed for building interactive chat experiences. The app is built using modern web technologies.
 
-React.js: ใช้สร้าง UI ของแอป
+## Technologies Used
 
-Tailwind CSS: ใช้ออกแบบ UI ด้วยคลาสที่กำหนดล่วงหน้า
+- **[Next.js](https://nextjs.org/)**: A powerful React framework for building server-rendered and statically generated web applications.
+- **[React.js](https://reactjs.org/)**: A JavaScript library for building user interfaces.
+- **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for creating custom designs with ease.
+- **[TypeScript](https://www.typescriptlang.org/)**: A typed superset of JavaScript that adds optional static types.
+- **Git**: Version control for tracking changes and collaboration. 
 
-TypeScript: เพิ่มระบบตรวจสอบประเภทข้อมูลในโค้ด
+## Features
 
-Git: ใช้จัดการเวอร์ชันของโปรเจคและแชร์ไปยัง GitHub
+- Chat UI interface connected to the LLaMA 3 model.
+- Responsive design built with Tailwind CSS for seamless user experience.
+- Modern JavaScript and TypeScript integration for better maintainability.
 
-โปรเจคนี้สร้าง UI สำหรับแชทที่เชื่อมต่อกับ LLaMA 3 หรือโมเดล AI สำหรับการสนทนา
+## How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Foam-01/llama3-chat-ui.git
+Install dependencies:
+
+2. Install dependencies:  npm install
+3. Run the development server: npm run dev
+4. Visit the app at http://localhost:3000
 
 ![Screenshot 2025-05-14 132843](https://github.com/user-attachments/assets/a8bfb0af-b999-40ac-901c-93e525fd327e)
 ![Screenshot 2025-05-14 133153](https://github.com/user-attachments/assets/3be54262-abbd-4895-be10-ce6d62020afa)
