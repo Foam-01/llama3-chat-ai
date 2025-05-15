@@ -21,7 +21,6 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Foam-01/llama3-chat-ui.git
-Install dependencies:
 
 2. Install dependencies:  npm install
 3. Run the development server: npm run dev
